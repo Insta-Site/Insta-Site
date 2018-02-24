@@ -1,0 +1,6 @@
+"nav": {
+    "items": [
+        { "name": "Home", "url": "index.html" },
+        { "name": "About", "url": "about.html" },
+    ]
+}
